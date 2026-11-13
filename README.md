@@ -1,2 +1,2 @@
-# karhesh-Database-Assignment-1
-Assignment repo for assignment/1-10 (Database Assignment 1)
+| Name | Kareem Hesham Mohammed |
+| Group ID | 2 |
